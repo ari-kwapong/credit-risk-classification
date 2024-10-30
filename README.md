@@ -1,6 +1,6 @@
 # credit-risk-classification
 
-In this section, we train a model through supervised learning and perfrom logistic regression. 
+In this section, we train a model through supervised learning and perform logistic regression. 
 
 Assisted by tutor (G. Perez)
 
